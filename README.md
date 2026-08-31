@@ -1,1 +1,3 @@
-# react-course
+# React Course Repository
+
+👨‍💻
